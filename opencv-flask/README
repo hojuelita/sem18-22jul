@@ -1,0 +1,13 @@
+Los programas webpage.py y stream.py se pueden correr por separado.
+
+stream.py activa la cámara y hace la detección facial del usuario.
+
+webpage.py incrusta el stream en una página web, para mirar la página es preciso compilar el programa con:
+
+python webpage.py
+
+se mostrará la línea: 
+
+Running on https://dirección_IP
+
+copiar la ruta completa y pegarla en su navegador, se mostrará la página con el stream de detección facial.
